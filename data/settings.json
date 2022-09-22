@@ -4,6 +4,10 @@
       "section": "trial",
       "topics": [
         {
+          "title": "what else",
+          "slug": "here"
+        },
+        {
           "title": "in the end",
           "slug": "hello"
         }
