@@ -1,8 +1,8 @@
 ---
 title: Forestry CMS
-date: 2020-01-02
+date: {}
 slug: forestry-cms
-
+published: true
 ---
 ## Import starter
 
@@ -13,7 +13,7 @@ Any changes you make will be commited back to the repo,
 
 ## Start Instant Previews
 
-Start the preview environement if you want to be able to preview your website.
+Start the preview envirghghonement if you want to be able to preview your website.
 
 Go to **Settings / Preview** and click on the **Start** button.
 
