@@ -1,6 +1,15 @@
 {
   "sidebar": [
     {
+      "section": "trial",
+      "topics": [
+        {
+          "title": "in the end",
+          "slug": "hello"
+        }
+      ]
+    },
+    {
       "section": "Introduction",
       "topics": [
         {
